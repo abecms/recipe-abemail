@@ -1,0 +1,22 @@
+{
+  "abe_meta": {
+    "template": "google-spreadsheet",
+    "link": "/google-spreadsheet.html",
+    "date": "2017-03-30T05:30:25.407Z",
+    "latest": {
+      "date": "2017-03-30T05:30:25.407Z",
+      "abeUrl": "/google-spreadsheet-abe-d20170330T053025407Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2017-03-30T05:30:25.407Z",
+        "abeUrl": "/google-spreadsheet-abe-d20170330T053025407Z.html"
+      },
+      "date": "2017-03-30T05:30:25.407Z",
+      "abeUrl": "/google-spreadsheet-abe-d20170330T053025407Z.html"
+    },
+    "complete": "100"
+  },
+  "name": "google-spreadsheet"
+}
