@@ -21,8 +21,14 @@ In this demo, you'll see 2 recipes:
 TBD
 
 # Google spreadsheet
-![Screenshot](/site/screenshot1.png?raw=true)
+
+## The form
 ![Screenshot](/site/screenshot2.png?raw=true)
+
+## The spreadsheet updated
+![Screenshot](/site/screenshot1.png?raw=true)
+
+## The mail sent
 ![Screenshot](/site/screenshot3.png?raw=true)
 
 Follow the details in https://github.com/dwyl/html-form-send-email-via-google-script-without-server/blob/master/index.html
